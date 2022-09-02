@@ -1,4 +1,4 @@
-package Nobilities.ex10;
+package Nobilities.ex7.ex10;
 
 import java.util.Map;
 

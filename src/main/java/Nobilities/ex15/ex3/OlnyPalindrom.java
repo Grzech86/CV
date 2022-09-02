@@ -1,4 +1,4 @@
-package Nobilities.ex3;
+package Nobilities.ex15.ex3;
 
 import java.util.Arrays;
 
